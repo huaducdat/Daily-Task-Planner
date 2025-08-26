@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Daily-Task-Planner/static/css/main.8f707894.css",
+    "main.js": "/Daily-Task-Planner/static/js/main.92996e41.js",
+    "static/js/453.8a9c8008.chunk.js": "/Daily-Task-Planner/static/js/453.8a9c8008.chunk.js",
+    "index.html": "/Daily-Task-Planner/index.html",
+    "main.8f707894.css.map": "/Daily-Task-Planner/static/css/main.8f707894.css.map",
+    "main.92996e41.js.map": "/Daily-Task-Planner/static/js/main.92996e41.js.map",
+    "453.8a9c8008.chunk.js.map": "/Daily-Task-Planner/static/js/453.8a9c8008.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f707894.css",
+    "static/js/main.92996e41.js"
+  ]
+}
