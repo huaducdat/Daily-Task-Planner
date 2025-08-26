@@ -172,22 +172,6 @@ export default function App() {
     <AntApp>
       <Routes>
         <Route path="/" element={<PlannerPage />} />
-        {/* Ví dụ thêm 1 route phụ */}
-        <Route
-          path="/about"
-          element={
-            <div style={{ padding: 16 }}>
-              <Typography.Title level={4}>About</Typography.Title>
-              <Typography.Text>
-                This is a simple local-state React app for the assessment.
-              </Typography.Text>
-              <div style={{ marginTop: 12 }}>
-                <Link to="/">Back to Planner</Link>
-              </div>
-            </div>
-          }
-        />
-        <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </AntApp>
   );
